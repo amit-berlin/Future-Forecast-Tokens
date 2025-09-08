@@ -1,9 +1,8 @@
 # Future-Forecast-Tokens
-These skills span **AI theory, software engineering, cloud-native infrastructure, governance, and reproducible science**, making the MVP not just a simple demo but a showcase of future-ready expertise.
 
 ---
 
-## **30 Advanced Technical Skills in the FFT MVP**
+Advanced Technical Skills in the FFT MVP
 
 ### **A. AI Theory and Algorithm Design (7 skills)**
 
